@@ -1,5 +1,11 @@
 {
-  "name": "flores",
+  "name": "spree_3.4.4",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "description": "spree_project",
+  "main": "index.js",
+  "repository": "https://github.com/scubaxx/flores.git",
+  "author": "Mauricio F Martinez <mauriciof.martinez@gmail.com>",
+  "license": "MIT"
 }
