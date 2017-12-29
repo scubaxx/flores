@@ -35,6 +35,8 @@ gem 'spree_gateway', '~> 3.3'
 gem 'spree_address_book', github: 'spree-contrib/spree_address_book'
 gem 'spree_recently_viewed', github: 'spree-contrib/spree_recently_viewed'
 gem 'spree_sitemap', github: 'spree-contrib/spree_sitemap'
+gem "spree_comments", github: 'spree-contrib/spree_comments'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
